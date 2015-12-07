@@ -1,0 +1,8 @@
+For Alice: 
+The cheapest route is DUB -> CDG -> AAL -> SYD -> JFK -> DUB ->  and costs €20431.59
+For Bob: 
+The cheapest route is DUB -> LHR -> CDG -> AMS -> AAL -> DUB ->  and costs €2106.56
+For Tom: 
+The cheapest route is LHR -> AMS -> SIN -> SFO -> DUB -> LHR ->  and costs €28524.55
+For Jane: 
+The cheapest route is DUB -> ARN -> SIN -> ARN -> LHR -> DUB -> DUB and costs €10064.33
